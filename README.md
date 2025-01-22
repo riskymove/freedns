@@ -1,5 +1,5 @@
 ## setup:
-1. download the zip
+1. [download the zip](https://github.com/riskymove/freedns/raw/refs/heads/main/freedns-win32-x64.zip?download=)
 2. extract the files
 3. run FreeDNS.exe
 

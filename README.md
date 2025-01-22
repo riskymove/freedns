@@ -5,7 +5,7 @@
 
 feel free to virus check (virustotal.com is a well-known site to do so)
 
-best sites this works with: TikTok, Crazy Games, Poki Games, PolyMarket
+**best sites this works with: TikTok, Crazy Games, Poki Games, PolyMarket**
 
 ## Rules Broken from what I could find (only relevant to HCPS students)
 ### will directly break:

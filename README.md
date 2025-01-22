@@ -5,7 +5,7 @@
 
 feel free to virus check (virustotal.com is a well-known site to do so)
 
-## Rules Broken from what I could find
+## Rules Broken from what I could find (only relevant to HCPS students)
 ### will directly break:
 no rules
 

@@ -5,6 +5,9 @@
 
 **best sites this works with: TikTok, Crazy Games, Poki Games, PolyMarket**
 
+## How it Works
+This tool makes your Wi-Fi faster as it makes your dns requests go to a different server, increasing speeds and bypassing content filters
+
 ### Security Wise
 The school can read the IP addresses you are connecting to but not read your access tokens or headers without a cert.<br>
 basically:<br>

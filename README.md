@@ -4,6 +4,7 @@
 3. run FreeDNS.exe
 
 **best sites this works with: TikTok, Crazy Games, Poki Games, PolyMarket**
+## if you're not from hcps do not set your dns server to the second one, this will change between internets, your dns server will be at the bottom of wifi settings where you find IPv4 DNS Servers.
 
 ## How it Works
 This tool makes your Wi-Fi faster as it makes your dns requests go to a different server, increasing speeds and bypassing content filters
